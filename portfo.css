@@ -222,7 +222,7 @@ button {
 
 button:hover {
     background-color: transparent;
-    border: 2px solid var(--main-color-color);
+    border: 2px solid var(--main-color);
     cursor: pointer;
 }
 
@@ -825,3 +825,4 @@ form textarea {
     float:right;
 
 } */
+
